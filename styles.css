@@ -1,0 +1,16 @@
+
+* {font-family: "Nerko One", cursive;
+    font-weight: 400;
+    font-style: normal;}
+body{background-color: rgb(230, 3, 230);}
+.colordeletra{background-color: aliceblue;}
+    h1{display: flex; align-items: center; justify-content: left;}
+    .contenedorflex{display: flex; justify-content: space-around; padding-top: 5rem;}
+    .tamañodeimagen{object-fit: cover; height: 300px;}
+    h2{ align-items: center; justify-content: center; font-size: small; display: flex; padding: 5rem;}
+    .tamañodelogo{ object-fit: cover; height: 100px;}
+    .imagen01{ height: 40rem; width: 40rem;}
+    .contenedorspoty{display: flex; justify-content:center; align-items: center; margin: 1rem; flex-direction: row;}
+    .spoty{display: flex; height: 40rem; width: 40rem;}
+    .contenedorsuperior{ display: flex; align-items: center; justify-content: center; padding-bottom: 30rem;}
+    
